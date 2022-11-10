@@ -1,0 +1,11 @@
+[
+    {
+        "nombres": "admin",
+        "apellidos": "admin",
+        "cargo": "Administrador Senior",
+        "email": "admin@inditex.com",
+        "contrasenia": "1234",
+        "bloqueado": false,
+        "rol": "Administrador"
+    }
+]
