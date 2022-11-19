@@ -6,8 +6,8 @@ let esquemaUsuario = new mongoose.Schema({
     cargo : String,
     email : String,
     contrasenia : String,
-    bloqueado : Boolean,
-    rol : String
+    rol : String,
+    bloqueado : Boolean
 });
 
 module.exports = mongoose.model('usuario',esquemaUsuario,'Usuarios');
